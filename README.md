@@ -20,6 +20,15 @@ Olá, eu me chamo Célia Raizer, tenho 19 anos.  Atualmente, estou cursando Ciê
     src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor"
 />
 
+<img
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+/>
+
 <br/>
 <br/>
 
