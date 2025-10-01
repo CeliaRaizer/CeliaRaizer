@@ -22,8 +22,8 @@ Olá, eu me chamo Célia Raizer, tenho 19 anos.  Atualmente, estou cursando Ciê
 
 <img
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="HTML" 
+    title="HTML"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" 
@@ -33,8 +33,8 @@ Olá, eu me chamo Célia Raizer, tenho 19 anos.  Atualmente, estou cursando Ciê
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/mysql/original.svg" 
@@ -42,8 +42,8 @@ Olá, eu me chamo Célia Raizer, tenho 19 anos.  Atualmente, estou cursando Ciê
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/postgresql/original.svg"
@@ -51,8 +51,8 @@ Olá, eu me chamo Célia Raizer, tenho 19 anos.  Atualmente, estou cursando Ciê
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"
