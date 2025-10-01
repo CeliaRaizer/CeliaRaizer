@@ -49,6 +49,14 @@ Olá, eu me chamo Célia Raizer, tenho 19 anos.  Atualmente, estou cursando Ciê
     src="https://devicon-website.vercel.app/api/postgresql/original.svg"
 />
 
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"
+/>
 
           
           
