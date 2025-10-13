@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Célia Raizer
 
-Olá, eu me chamo Célia Raizer, tenho 19 anos.  Atualmente, estou cursando Ciência da Computação no IFC-Videira. Meu perfil no instagram é "[Celia_Raizer](https://www.instagram.com/celia_raizer?igsh=MXQxMzEyN3JmZnlxaQ%3D%3D&utm_source=qr)".
+Olá, eu me chamo Célia Raizer, tenho 19 anos.  Atualmente, estou cursando Ciência da Computação no IFC-Videira.
 ---
 ### 🤖 Linguagens e Tecnologias
 <img          
