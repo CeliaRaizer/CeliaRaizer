@@ -86,6 +86,24 @@ Sou interessada em **tecnologia, desenvolvimento de software e aprendizado contÃ
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"
 />
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://github.com/user-attachments/assets/b73a7b6e-8bc9-4207-8194-e920f4b8d9e9" 
+/>
+
+<img 
+    align="left" 
+    alt="Nginx" 
+    title="Nginx"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/0d1d1e08-b9fa-4410-a908-f8479784c509" 
+/>
           
 <br/>
 <br/>
