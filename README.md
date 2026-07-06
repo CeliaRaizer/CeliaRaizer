@@ -169,3 +169,7 @@ Neste GitHub compartilho projetos desenvolvidos durante a graduação, estudos, 
   <a href = "celiaslongoraizer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@celiacristinaslongoraizer9395" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+---
+
+![Snake animation](https://github.com/CeliaRaizer/CeliaRaizer/actions/runs/28804812877)
