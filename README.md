@@ -2,9 +2,9 @@
 
 Olá! Meu nome é **Célia Raizer**, tenho **20 anos** e atualmente estou cursando **Ciência da Computação** no **Instituto Federal Catarinense (IFC) – Campus Videira**.
 
-Tenho interesse em **desenvolvimento de software**, especialmente nas áreas de desenvolvimento web, back-end e arquitetura de aplicações. Estou sempre em busca de novos conhecimentos e desafios que contribuam para meu crescimento profissional.
+Ao longo da graduação venho desenvolvendo projetos pessoais e acadêmicos, estudando novas tecnologias e aprofundando conhecimentos em desenvolvimento de aplicações escaláveis, APIs, bancos de dados, conteinerização e integração de sistemas.
 
-Neste GitHub compartilho projetos desenvolvidos durante a graduação, estudos, experimentos e tecnologias que venho aprendendo ao longo da minha trajetória.
+Neste GitHub compartilho projetos, estudos e experimentos que refletem minha evolução como desenvolvedora.
 
 ---
 ## 🤖 Tecnologias e Ferramentas
@@ -131,16 +131,82 @@ Neste GitHub compartilho projetos desenvolvidos durante a graduação, estudos, 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/0d1d1e08-b9fa-4410-a908-f8479784c509" 
-/> <br><br>
+/> 
 
-### 📡 APIs e Arquiteturas
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" 
+/><br> <br>
+
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+### 📡 APIs e Integração
 - REST
 - SOAP
 - GraphQL
 - Mensageria
+
+    </td>
+
+    <td valign="top" width="33%">
+
+### 🏗️ Arquitetura e Padrões
 - Arquitetura Cliente-Servidor
-          
-<br/>
+- MVC
+- MVP
+- MVVM
+
+    </td>
+
+    <td valign="top" width="33%">
+
+### 🔐 Autenticação e Segurança
+- OAuth 2.0
+- JWT (JSON Web Token)
+
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top">
+
+### ⚡ Comunicação em Tempo Real
+- Polling
+- Long Polling
+- WebSocket
+- Server-Sent Events (SSE)
+
+    </td>
+
+    <td valign="top">
+
+### 🚀 DevOps
+- Docker
+- CI/CD
+
+    </td>
+
+    <td></td>
+  </tr>
+</table>
+
+<br>
 
 ### 📊 Estatísticas
 <p>
