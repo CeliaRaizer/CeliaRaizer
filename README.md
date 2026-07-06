@@ -172,4 +172,4 @@ Neste GitHub compartilho projetos desenvolvidos durante a graduação, estudos, 
 
 ---
 
-![Snake animation](https://github.com/CeliaRaizer/CeliaRaizer/actions/runs/28804812877)
+![Snake animation](https://raw.githubusercontent.com/CeliaRaizer/CeliaRaizer/output/github-contribution-grid-snake.svg)
