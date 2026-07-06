@@ -9,7 +9,6 @@ Neste GitHub compartilho projetos, estudos e experimentos que refletem minha evo
 ---
 ## 🤖 Tecnologias e Ferramentas
 
-### 💻 Linguagens
 <img          
     align="left" 
     alt="C" 
@@ -43,10 +42,7 @@ Neste GitHub compartilho projetos, estudos e experimentos que refletem minha evo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"
-/> <br> <br>
-
-
-### 🌐 Desenvolvimento Web
+/>
 
 <img
     align="left" 
@@ -91,9 +87,7 @@ Neste GitHub compartilho projetos, estudos e experimentos que refletem minha evo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor"
-/> <br><br>
-
-### 🗄️ Banco de Dados
+/> 
 
 <img 
     align="left" 
@@ -111,9 +105,7 @@ Neste GitHub compartilho projetos, estudos e experimentos que refletem minha evo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/postgresql/original.svg"
-/> <br><br>
-
-### ⚙️ Ferramentas
+/>
 
 <img 
     align="left" 
@@ -149,7 +141,7 @@ Neste GitHub compartilho projetos, estudos e experimentos que refletem minha evo
     width="30px" 
     style="padding-right: 10px;" 
     src= "https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" 
-/><br> <br>
+/><br> <br> <br>
 
 
 <table>
