@@ -2,10 +2,14 @@
 
 Olá! Meu nome é **Célia Raizer**, tenho **20 anos** e atualmente estou cursando **Ciência da Computação** no **Instituto Federal Catarinense (IFC) – Campus Videira**.
 
-Sou interessada em **tecnologia, desenvolvimento de software e aprendizado contínuo**, e utilizo este GitHub para compartilhar projetos, estudos e experiências ao longo da minha jornada na área da computação.
+Tenho interesse em **desenvolvimento de software**, especialmente nas áreas de desenvolvimento web, back-end e arquitetura de aplicações. Estou sempre em busca de novos conhecimentos e desafios que contribuam para meu crescimento profissional.
+
+Neste GitHub compartilho projetos desenvolvidos durante a graduação, estudos, experimentos e tecnologias que venho aprendendo ao longo da minha trajetória.
 
 ---
-### 🤖 Linguagens e Tecnologias
+## 🤖 Tecnologias e Ferramentas
+
+### 💻 Linguagens
 <img          
     align="left" 
     alt="C" 
@@ -25,22 +29,24 @@ Sou interessada em **tecnologia, desenvolvimento de software e aprendizado cont�
 
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/mysql/original.svg" 
+    src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"
 />
 
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
+    alt="TypeScript" 
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/postgresql/original.svg"
-/>
+    src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"
+/> <br> <br>
 
+
+### 🌐 Desenvolvimento Web
 
 <img
     align="left" 
@@ -58,15 +64,6 @@ Sou interessada em **tecnologia, desenvolvimento de software e aprendizado cont�
     width="30px" 
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"
 />
 
 <img 
@@ -89,6 +86,37 @@ Sou interessada em **tecnologia, desenvolvimento de software e aprendizado cont�
 
 <img 
     align="left" 
+    alt="Vue.js" 
+    title="Vue.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor"
+/> <br><br>
+
+### 🗄️ Banco de Dados
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/mysql/original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/postgresql/original.svg"
+/> <br><br>
+
+### ⚙️ Ferramentas
+
+<img 
+    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
@@ -103,7 +131,14 @@ Sou interessada em **tecnologia, desenvolvimento de software e aprendizado cont�
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/0d1d1e08-b9fa-4410-a908-f8479784c509" 
-/>
+/> <br><br>
+
+### 📡 APIs e Arquiteturas
+- REST
+- SOAP
+- GraphQL
+- Mensageria
+- Arquitetura Cliente-Servidor
           
 <br/>
 <br/>
