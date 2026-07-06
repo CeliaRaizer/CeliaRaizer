@@ -158,4 +158,14 @@ Neste GitHub compartilho projetos desenvolvidos durante a graduação, estudos, 
    src="https://github-readme-stats-black-three-20.vercel.app/api/top-langs/?username=CeliaRaizer&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
 />
 
-</p>
+</p>  <br><br><br><br><br><br><br><br><br>
+
+
+---
+
+<div> 
+  <a href="https://www.instagram.com/celia_raizer?igsh=MXQxMzEyN3JmZnlxaQ%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/c%C3%A9lia-cristina-raizer-303b81319/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "celiaslongoraizer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@celiacristinaslongoraizer9395" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
