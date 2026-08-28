@@ -44,6 +44,15 @@ Neste GitHub compartilho projetos, estudos e experimentos que refletem minha evo
     src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"
 />
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"
+/>
+
 <img
     align="left" 
     alt="HTML" 
